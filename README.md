@@ -12,3 +12,7 @@ For Install :
 
 
 3: sudo sh Mtproto.sh
+
+
+
+** For Remove Or Reinstall Proxy sudo docker rm -f mtproto-proxy **
