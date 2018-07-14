@@ -5,7 +5,10 @@ Telegram Channel : t.me/Iraniancrackers
 
 For Install : 
 
-1: chmod +x Mtproto.sh
+1: git clone https://github.com/Iraniancrackers/Mtproto
 
 
-2: sudo sh Mtproto.sh
+2: chmod +x Mtproto.sh
+
+
+3: sudo sh Mtproto.sh
