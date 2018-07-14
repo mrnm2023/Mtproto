@@ -1,7 +1,7 @@
 # MtprotoPROXY
 MtprotoProxy .Shell
 
-Telegram Channel : t.me/Iraniancrackers
+Telegram Channel : https://t.me/Iraniancrackers
 
 For Install : 
 
