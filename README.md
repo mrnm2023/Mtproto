@@ -1,4 +1,4 @@
-# Mtprotoحق
+# MtprotoPROXY
 MtprotoProxy .Shell
 
 Telegram Channel : t.me/Iraniancrackers
