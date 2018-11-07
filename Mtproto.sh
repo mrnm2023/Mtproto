@@ -10,7 +10,7 @@ echo "😎"
 echo "😎"
 echo "😎"
 echo "😎"
-echo "${green}Writen By MrnM${reset}"
+echo "${green}script By MrnM${reset}"
 echo  "Telegram.me/Iraniancrackers"
 echo "Telegram.me/Mr_nM"
 echo "😎 "
@@ -104,7 +104,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-  echo  "Shell Edited by MRNM"
+  echo  "script by MRNM"
   fi
   fi
   fi
