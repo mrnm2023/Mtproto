@@ -63,7 +63,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-echo "Please Go to @MTProxybot and create newproxy and insert ${IP}:${PORT} in host:port field and insert ${SS} in secret field and enter Recived TAG and send in next step"
+echo "Please Go to @MTProxybot and create newproxy and insert ${IP}:${PORT} in host:port field and insert secret in secret field and enter Recived TAG and send in next step"
 echo "رفته سپس ساخت پروکسی رو بزنین و در قسمت مشخص شده ای پی و پورت و سکرت رو بزنین سپس تگ دریافت شده رو وارد کنید @MTproxybot لطفا به ربات"
   if [ ! -z "$TAG" ]; then
   echo "[+] Using Default TAG: ${TAG}."
