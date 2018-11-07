@@ -7,12 +7,12 @@ For Install :
 
 1: git clone https://github.com/Iraniancrackers/Mtproto
 
+2: cd Mtproto
 
-2: chmod +x Mtproto.sh
+3: chmod +x Mtproto.sh
 
+4: sudo sh Mtproto.sh
 
-3: sudo sh Mtproto.sh
-
-
+one line code : git clone https://github.com/Iraniancrackers/Mtproto && cd Mtproto && chmod +x Mtproto.sh && sudo sh Mtproto.sh
 
 ** For Remove Or Reinstall Proxy sudo docker rm -f mtproto-proxy **
