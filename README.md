@@ -16,3 +16,5 @@ For Install :
 one line code : git clone https://github.com/Iraniancrackers/Mtproto && cd Mtproto && chmod +x Mtproto.sh && sudo sh Mtproto.sh
 
 ** For Remove Or Reinstall Proxy sudo docker rm -f mtproto-proxy **
+
+Special Tanks to : Hamidreza
