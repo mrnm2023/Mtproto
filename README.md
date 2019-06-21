@@ -17,4 +17,4 @@ one line code : git clone https://github.com/Iraniancrackers/Mtproto && cd Mtpro
 
 ** For Remove Or Reinstall Proxy sudo docker rm -f mtproto-proxy **
 
-Special Tanks to : Hamidreza
+😍🔥 Special Tanks to : Hamidreza 😍🔥
